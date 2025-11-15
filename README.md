@@ -1,6 +1,6 @@
 # about_m
 
-#-------------------Hello!----------------
+-------------------Hello!----------------
 ------------------------------------------
 Computer Science Student | Full-Stack Developer | Fronted Delevoper
 using: C/C++ | SQL | Web (HTML/CSS/JS)
